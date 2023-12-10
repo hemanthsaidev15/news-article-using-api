@@ -1,0 +1,13 @@
+.maindiv {
+  background-color: rebeccapurple;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.navbar {
+  color: black;
+ 
+}
+.card {
+  margin: 15px;
+}
